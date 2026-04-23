@@ -99,7 +99,6 @@ void loop() {
   }
 
 
-
   if (analysis_completed) {
         Serial.print(fat, 2);
         Serial.print(",");
