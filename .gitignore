@@ -1,0 +1,7 @@
+# Ignore images
+*.png
+*.jpg
+*.jpeg
+
+# Ignore accidental directories
+home/
