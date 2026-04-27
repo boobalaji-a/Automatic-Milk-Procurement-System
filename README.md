@@ -18,4 +18,7 @@ This system enables farmers to deposit milk without the intervention of dairy in
 ![Alt Text](prototype_analyzer1.png)
 
 ## Working Video 
-<video src="https://drive.google.com/file/d/17zVuWN01ucVUGDLbvMpi7Bafa3PvSYsn/view?usp=sharing"></video>
+[Milk procurement demo] (https://drive.google.com/file/d/17zVuWN01ucVUGDLbvMpi7Bafa3PvSYsn/view?usp=sharing)
+
+[Self cleaning demo]
+(https://drive.google.com/file/d/1_VuQH2Kjx_NSMf7n0LKq0ZeSqgcY6z_v/view?usp=sharing)
