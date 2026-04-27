@@ -1,5 +1,6 @@
 # Milk Procurement
 In rural areas, most milk procurement from dairy farmers is done through dairy cooperative societies, e.g., TCMPFL (Tamil Nadu Cooperative Milk Producers' Federation Limited).
+
 ![Dairy Cooperative Society](dairy_cooperative_society.png)
 
 In India, there are more than 2 lakh dairy cooperative societies, and the total procurement by these societies is up to 60,000 tonnes of milk.
