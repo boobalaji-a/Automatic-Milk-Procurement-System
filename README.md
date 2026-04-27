@@ -16,3 +16,6 @@ This system enables farmers to deposit milk without the intervention of dairy in
 
 #### Milk Analyzer
 ![Alt Text](prototype_analyzer1.png)
+
+## Working Video 
+<video src="https://drive.google.com/file/d/17zVuWN01ucVUGDLbvMpi7Bafa3PvSYsn/view?usp=sharing"></video>
